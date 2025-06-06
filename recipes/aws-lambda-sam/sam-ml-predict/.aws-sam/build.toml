@@ -8,6 +8,6 @@ functions = ["HelloWorldMLFunction"]
 [function_build_definitions.be87f1c3-ceae-4db0-9f27-0a5e061b4c66.metadata]
 Dockerfile = "Dockerfile"
 DockerContext = "./ml_hello_world"
-DockerTag = "python3.8-v1"
+DockerTag = "python3.11-v1"
 
 [layer_build_definitions]
